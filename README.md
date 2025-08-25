@@ -326,19 +326,6 @@ GitHub에서 Pull Request를 생성해주세요.
 
 ---
 
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
-
----
-
-## 📞 문의 및 지원
-
-- **이메일**: support@oneq.com
-- **GitHub Issues**: [이슈 등록](https://github.com/your-username/oneqq/issues)
-- **문서**: [API 문서](https://docs.oneq.com)
-
----
 
 <div align="center">
 
