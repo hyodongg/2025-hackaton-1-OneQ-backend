@@ -9,7 +9,6 @@
 ![Django](https://img.shields.io/badge/Django-5.2.5-green.svg)
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-3.16.0-red.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **AI가 추천하는 최적의 인쇄소를 찾아드립니다** 🎯
 
